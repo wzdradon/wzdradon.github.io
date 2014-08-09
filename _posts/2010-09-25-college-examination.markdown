@@ -1,13 +1,13 @@
 ---
 author: Radon
 comments: false
-date: 2010-02-11 05:58:08+00:00
+date: 2010-09-17 12:44:08+00:00
 layout: post
-slug: txt-php-blogs
-title: 文本Blog程序记录
+slug: 
+title: 写给高考失利和高分低就的考生
 thread: 11
 categories:
-- Blog相关
+- 心情随笔
 ---
 
 
